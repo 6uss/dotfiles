@@ -1,0 +1,7 @@
+make bzImage -j 8
+make modules -j 8
+make -j 8
+
+make modules_install -j 8
+make install -j 8
+
