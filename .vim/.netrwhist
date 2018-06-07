@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/root/rpmbuild/BUILD/kernel-3.10.0-693.1.1.el7/linux-3.10.0-693.1.1.el7.x86_64'
+let g:netrw_dirhist_2='/usr/src/kernels'
+let g:netrw_dirhist_3='/usr/src/kernels/3.10.0-693.el7.x86_64'
+let g:netrw_dirhist_4='/usr/src/kernels'
+let g:netrw_dirhist_5='/usr/src/kernels/3.10.0-862.2.3.el7.x86_64'
+let g:netrw_dirhist_6='/usr/src/kernels'
+let g:netrw_dirhist_7='/usr/src/kernels/3.10.0-693.el7.x86_64'
+let g:netrw_dirhist_8='/boot'
+let g:netrw_dirhist_9='/root/rpmbuild/BUILD/kernel-3.10.0-693.1.1.el7/linux-3.10.0-693.1.1.el7.x86_64/pinfo'
